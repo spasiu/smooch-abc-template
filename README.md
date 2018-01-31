@@ -1,5 +1,7 @@
 # Smooch ABC preconfigured templates
 
+Use specific phrases sent by agents to users to trigger preconfigured Apple Business Chat messages.
+
 ## Environment variables
 
 ```
@@ -18,3 +20,4 @@ PORT=8000
 3. `npm start`
 4. expose port 8000 using a service like ngrok.io
 5. create a Smooch webhook with a `message:appMaker` trigger pointing at _/smooch-event_
+6. configure triggers and payload templates in the config folder
