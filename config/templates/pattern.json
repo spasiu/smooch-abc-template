@@ -70,7 +70,7 @@
     }
   },
   "receivedMessage": {
-    "style": "large",
+    "style": "small",
     "title": "Pattern Preference?",
     "subtitle": "Tap to select",
     "imageIdentifier": "pattern-preview"

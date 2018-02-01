@@ -73,7 +73,7 @@
     }
   },
   "receivedMessage": {
-    "style": "large",
+    "style": "small",
     "title": "Style Preference?",
     "subtitle": "Tap to select",
     "imageIdentifier": "style-preview"
